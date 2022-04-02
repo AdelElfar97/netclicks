@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/netclicks/static/css/main.cd58f987.css",
-    "main.js": "/netclicks/static/js/main.dde8c347.js",
+    "main.js": "/netclicks/static/js/main.761a1748.js",
     "index.html": "/netclicks/index.html",
     "main.cd58f987.css.map": "/netclicks/static/css/main.cd58f987.css.map",
-    "main.dde8c347.js.map": "/netclicks/static/js/main.dde8c347.js.map"
+    "main.761a1748.js.map": "/netclicks/static/js/main.761a1748.js.map"
   },
   "entrypoints": [
     "static/css/main.cd58f987.css",
-    "static/js/main.dde8c347.js"
+    "static/js/main.761a1748.js"
   ]
 }
